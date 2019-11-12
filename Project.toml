@@ -1,0 +1,14 @@
+name = "ADAA_Examples"
+uuid = "a08f0d4a-2a70-4cb3-a832-7561651016bc"
+authors = ["Martin Holters <martin.holters@hsu-hh.de>"]
+version = "0.1.0"
+
+[deps]
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
+NumericalIntegration = "e7bfaba1-d571-5449-8927-abc22e82249b"
+
+[compat]
+Interpolations = "0.12"
+NLsolve = "4"
+NumericalIntegration = "0.2"
