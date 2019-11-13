@@ -1,7 +1,8 @@
 module ADAA_Examples
 
-export DiodeClipper
+export DiodeClipper, TubeScreamer
 
 include("diodeclipper.jl")
+include("tubescreamer.jl")
 
 end
